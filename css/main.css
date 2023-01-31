@@ -759,11 +759,11 @@ blockquote {
 /*Media queries*/
 
 @media only screen and (min-device-width: 720px) and (max-device-width: 1280px) and (orientation: portrait) {
-    input,
+    /* input,
     textarea {
         -webkit-appearance: none;
         -webkit-border-radius: 0;
-    }
+    } */
     .section-dashed {
         height: 728px;
         top: 594px;
@@ -799,18 +799,18 @@ blockquote {
     }
 }
 @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (orientation: landscape) {
-    input,
+    /* input,
     textarea {
         -webkit-appearance: none;
         -webkit-border-radius: 0;
-    }
+    } */
 }
 @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (orientation: portrait) {
-    input,
+    /* input,
     textarea {
         -webkit-appearance: none;
         -webkit-border-radius: 0;
-    }
+    } */
     .section-dashed {
         height: 629px;
         top: 514px;
@@ -828,11 +828,11 @@ blockquote {
     }
 }
 @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-    input,
+    /* input,
     textarea {
         -webkit-appearance: none;
         -webkit-border-radius: 0;
-    }
+    } */
     .section-dashed {
         height: 628px;
         top: 588px;
@@ -865,11 +865,11 @@ blockquote {
     }
 }
 @media only screen and (min-width: 768px) and (max-width: 960px) {
-    input,
+    /* input,
     textarea {
         -webkit-appearance: none;
         -webkit-border-radius: 0;
-    }
+    } */
     .header .left-part,
     .header .right-part {
         float: none;
@@ -939,11 +939,11 @@ blockquote {
     }
 }
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-    input,
+    /* input,
     textarea {
         -webkit-appearance: none;
         -webkit-border-radius: 0;
-    }
+    } */
 
     .header .left-part,
     .header .right-part {
@@ -1033,11 +1033,11 @@ blockquote {
     }
 }
 @media only screen and (max-width: 479px) {
-    input,
+    /* input,
     textarea {
         -webkit-appearance: none;
         -webkit-border-radius: 0;
-    }
+    } */
     .header .left-part,
     .header .right-part {
         float: none;
