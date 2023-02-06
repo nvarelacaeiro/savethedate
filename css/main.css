@@ -659,8 +659,10 @@ img.gift-reg:hover {
     left: 0;
     right: 0;
     bottom: 0;
-    /* background-color: rgba(10, 3, 6, 0.438); */
-    background-color: #eee0d5a1; /*acá puede ser mejor un gris común */
+    /* background-color: rgba(0, 0, 0, 0.377); */
+    /* background-color: #b0f2d333; */
+    /*acá puede ser mejor un gris común 👇 */
+    background-color: #eee0d5a1; 
     display: flex;
     opacity: 0;
     pointer-events: none;
@@ -703,7 +705,7 @@ img.gift-reg:hover {
 
 .modal-img {
     width: 90%;
-    max-width: 300px;
+    max-width: 200px;
 }
 
 .modal-close {
