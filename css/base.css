@@ -238,12 +238,12 @@ p.lead {
     font-size: 17px;
 }
 p.lead.size-m {
-    font-size: 16px;
+    font-size: 18px;
     margin: 25px;
 }
 p.lead.size-s {
     font-size: 15px;
-    margin-bottom: 0;
+    margin-bottom: 25px;
 }
 p a:hover {
     text-decoration: underline;

@@ -550,6 +550,14 @@ h1.large {
 }
 /* End events section*/
 
+/* Dress Code section  */
+
+/* .dress {
+
+} */
+
+
+/* End Dress Code Section  */
 
 /* Album section*/
 
@@ -634,7 +642,7 @@ img.gift-reg:hover {
     opacity: .8;
 }
 
-/* desde acá va el modal */
+/* Modal */
 
 .btn-modal {
     /* display: flex; */
@@ -659,11 +667,10 @@ img.gift-reg:hover {
     left: 0;
     right: 0;
     bottom: 0;
+    /*acá puede ser mejor un gris común 👇 */
     /* background-color: rgba(0, 0, 0, 0.377); */
     /* background-color: #b0f2d333; */
-    /*acá puede ser mejor un gris común 👇 */
     background-color: #eee0d5a1; 
-    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.25);
     display: flex;
     opacity: 0;
     pointer-events: none;
@@ -681,11 +688,13 @@ img.gift-reg:hover {
 }
 
 .modal-container {
+    /* hacerlo no tan largo  */
     margin: auto;
     width: 90%;
     max-width: 600px;
-    max-height: 90%;
+    max-height: 100%;
     background-color: white;
+    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.25);
     border-radius: 6px;
     padding: 3em 2.5em;
     display: grid;
@@ -721,6 +730,7 @@ img.gift-reg:hover {
     background-color: #b0f2d3;
     /* background-color: #eee0d5; */
     padding: 1em 3em;
+    margin-top: 3em;
     /* border: 1px solid; */
     font-family: 'Lato-Medium', "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
     font-size: 16px;
