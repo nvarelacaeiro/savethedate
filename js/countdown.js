@@ -1,5 +1,5 @@
 // Fecha y hora final
-var countDownDate = new Date("May 10, 2023 00:00:00").getTime();
+var countDownDate = new Date("May 13, 2023 00:00:00").getTime();
 console.log(countDownDate);
 
 // Actualiza la cuenta regresiva cada 1 segundo
@@ -18,7 +18,7 @@ var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
 var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
 // Muestra la cuenta regresiva en el elemento con id "demo"
-document.getElementById("countdown").innerHTML = days + " days " + hours + ":"
+document.getElementById("countdown").innerHTML = days + " días " + hours + ":"
 + minutes + ":" + seconds + "";
 
 // Si la cuenta regresiva llega a cero, muestra el texto "Finalizado"

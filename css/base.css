@@ -243,7 +243,7 @@ p.lead.size-m {
 }
 p.lead.size-s {
     font-size: 15px;
-    margin-bottom: 25px;
+    margin-bottom: 25;
 }
 p a:hover {
     text-decoration: underline;
@@ -306,6 +306,7 @@ h2.typo{
 	color:#ffffff;
 	line-height:1;
 	font-size: 130px;
+    margin-bottom: 10px;
 }
 
 .circle-dashed.bg,
@@ -354,11 +355,6 @@ img.gift-reg {
     -o-transition: all 0.3s ease 0s;
 }
 .but {
-    /* display: inline-block;
-    position: relative;
-    position: relative;
-    color: #353031;
-    padding: 15px 30px; */
     display: inline-block;
     position: relative;
     border-radius: 10px;
@@ -372,6 +368,22 @@ img.gift-reg {
     font-family: 'Lato-Medium', "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
     font-size: 16px;
 } 
+
+.but-swap {
+    display: inline-block;
+    position: relative;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    margin: 30px;
+    width: 150px;
+    height: 50px;
+    background-color: #eee0d5;   
+    color: #333030;
+    font-family: 'Lato-Medium', "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+} 
+
 .but span {
     z-index: 10;
 }
@@ -394,11 +406,15 @@ img.gift-reg {
     stroke-width: 0.1em;
 }
 .but:hover {
-    transform: translateY(3px);
-    -webkit-transform: translateY(3px);
-    -moz-transform: translateY(3px);
-    -ms-transform: translateY(3px);
-    -o-transform: translateY(3px);
+    color: white;
+    background-color: #333030;
+    text-decoration: none;
+}
+
+.but-swap:hover {
+    color: white;
+    background-color: #333030;
+    text-decoration: none;
 }
 /*End links*/
 
