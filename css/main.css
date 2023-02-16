@@ -796,6 +796,15 @@ img.gift-reg:hover {
   transition: var(--transition);
 }
 
+@media screen and (max-width: 600px) {
+    .modal-container {
+      max-width: 90%;
+      height: 70%;
+      padding: 2em 1.5em;
+      grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+    }
+  }
+
 .modal-img {
   width: 95%;
   max-width: 200px;
