@@ -8,12 +8,15 @@ const goTop = function() {
     goTopEl.classList.remove('show');
     }
     })};
+    
 
-const goTopEl = document.querySelector('.go-top');
-goTopEl.addEventListener('click', function() {            
-document.querySelector('html, body').animate({ scrollTop: 0 }, 1000 , 'easeInOutExpo');
-return false;
-});    
+// const goTopEl = document.querySelector('.go-top');
+// goTopEl.addEventListener('click', function() {            
+//     // document.querySelector('html, body').animate({ scrollTop: 0 }, 1000 , 'easeInOutExpo');
+//     window.scrollTo(0,0);
+//     console.log("funciona");
+// return false;
+// });    
 
 window.addEventListener('load', function() {
 goTop();

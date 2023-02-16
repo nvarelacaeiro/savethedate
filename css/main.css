@@ -334,7 +334,6 @@ align-items: center;
 border-radius: 50%;
 width: 50px;
 height: 50px;
-/* border-radius: 20px 20px; */
 }
 
 .block-date-hero {
@@ -555,7 +554,7 @@ height: 50px;
   position: auto;
   border-radius: 10px;
   border: none;
-  padding: 10px;
+  padding: 5px;
   margin: 30px;
   width: 150px;
   height: 50px;
@@ -583,7 +582,7 @@ height: 50px;
   position: auto;
   border-radius: 10px;
   border: none;
-  padding: 10px;
+  padding: 5px;
   margin: 30px;
   width: 150px;
   height: 50px;
