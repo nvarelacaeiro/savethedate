@@ -1,5 +1,5 @@
 // Fecha y hora final
-var countDownDate = new Date("Dec 13, 2023 00:00:00").getTime();
+var countDownDate = new Date("Dec 16, 2023 00:00:00").getTime();
 console.log(countDownDate);
 
 // Actualiza la cuenta regresiva cada 1 segundo
