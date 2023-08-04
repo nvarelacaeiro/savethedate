@@ -336,6 +336,7 @@ h1.large {
 font-size: 0.5em;    
 background-color: #eee0d5;
 padding: 20px;
+margin-bottom: 40px;
 display: inline-flex;
 justify-content: center;
 align-items: center;
@@ -619,6 +620,7 @@ height: 50px;
 /* Dress Code section  */
 
 /* .dress {
+  height: 500px;
 } */
 
 /* End Dress Code Section  */
@@ -677,13 +679,13 @@ height: 50px;
 .block-img a:hover:before {
   opacity: 0;
 }
-/* End album section*/
+/* End album section*/  
 
 /* Gift section*/
 
 .icon {
   width: 100px;
-  padding: 10px;
+  /* padding: 5px; */
   filter: hue-rotate(90deg) brightness(150%) opacity(70%);
   /* filter: brightness(100%); este sería en blanco*/
 }
@@ -731,7 +733,7 @@ img.gift-reg:hover {
   border-radius: 10px;
   border: none;
   padding: 10px;
-  margin: 30px;
+  margin-top: 35px;
   width: 150px;
   height: 50px;
   background-color: #b0f2d3;
@@ -1278,6 +1280,7 @@ blockquote {
   }
   h2.typo {
     font-size: 100px;
+    /* margin-bottom: 20px; */
   }
   .circle-dashed.middle,
   .section-dashed,
@@ -1371,6 +1374,7 @@ blockquote {
   }
   h2.typo {
     font-size: 80px;
+
   }
   img.gift-reg {
     max-width: 40%;
