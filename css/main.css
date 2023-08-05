@@ -528,6 +528,10 @@ height: 50px;
 
 /* Date section*/
 
+.date {
+  background-color: #8aa086;
+}
+
 .countdown {
   font-size: 45px;
 }
