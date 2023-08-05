@@ -544,7 +544,7 @@ height: 50px;
 /* Events section*/
 
 .block-event {
-  border: 20px solid #b0f2d3;
+  border: 20px solid #dbddd0;
   padding: 50px 0;
   box-shadow: 0 0 20px rgba(53, 48, 49, 0.15);
   -webkit-box-shadow: 0 0 20px rgba(53, 48, 49, 0.15);
@@ -576,7 +576,7 @@ height: 50px;
   margin-top: 110px;
   width: 150px;
   height: 50px;
-  background-color: #b0f2d3;
+  background-color: #dbddd0;
   -webkit-box-shadow: 0px 0px 5px -1px rgba(0, 0, 0, 0.4);
   -moz-box-shadow: 0px 0px 5px -1px rgba(0, 0, 0, 0.4);
   box-shadow: 0px 0px 5px -1px rgba(0, 0, 0, 0.4);
@@ -651,6 +651,10 @@ height: 50px;
 /* End Dress Code Section  */
 
 /* Album section*/
+
+/* .album {
+  background-color: #dbddd0;
+} */
 
 .instagram {
     text-decoration: underline;
@@ -761,7 +765,7 @@ img.gift-reg:hover {
   margin-top: 35px;
   width: 150px;
   height: 50px;
-  background-color: #b0f2d3;
+  background-color: #dbddd0;
   -webkit-box-shadow: 0px 0px 5px -1px rgba(0, 0, 0, 0.4);
   -moz-box-shadow: 0px 0px 5px -1px rgba(0, 0, 0, 0.4);
   box-shadow: 0px 0px 5px -1px rgba(0, 0, 0, 0.4);
