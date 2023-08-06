@@ -900,6 +900,10 @@ img.gift-reg:hover {
 
 /* Friends section*/
 
+.custom-bold {
+  font-weight: bold;
+}
+
 .circle-dashed.relative {
   position: relative;
   display: inline-block;
