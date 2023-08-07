@@ -546,16 +546,11 @@ height: 50px;
 .block-event {
   border: 20px #dbddd0;
   padding: 50px 0;
-  /* box-shadow: 0 0 20px rgba(53, 48, 49, 0.15);
-  -webkit-box-shadow: 0 0 20px rgba(53, 48, 49, 0.15);
-  -moz-box-shadow: 0 0 20px rgba(53, 48, 49, 0.15);
-  -ms-box-shadow: 0 0 20px rgba(53, 48, 49, 0.15);
-  -o-box-shadow: 0 0 20px rgba(53, 48, 49, 0.15); */
-    box-shadow: 0 0 20px rgba(53, 48, 49, 0.5);
-  -webkit-box-shadow: 0 0 20px rgba(53, 48, 49, 0.5);
-  -moz-box-shadow: 0 0 20px rgba(53, 48, 49, 0.5);
-  -ms-box-shadow: 0 0 20px rgba(53, 48, 49, 0.5);
-  -o-box-shadow: 0 0 20px rgba(53, 48, 49, 0.5);
+  box-shadow: 0 0 20px rgba(53, 48, 49, 0.3);
+  -webkit-box-shadow: 0 0 20px rgba(53, 48, 49, 0.3);
+  -moz-box-shadow: 0 0 20px rgba(53, 48, 49, 0.3);
+  -ms-box-shadow: 0 0 20px rgba(53, 48, 49, 0.3);
+  -o-box-shadow: 0 0 20px rgba(53, 48, 49, 0.3);
   height: 550px;
   position: relative;
   
@@ -583,7 +578,7 @@ height: 50px;
   margin-top: 110px;
   width: 150px;
   height: 50px;
-  background-color: #dbddd0;
+  background-color: #bcc6ae;
   -webkit-box-shadow: 0px 0px 5px -1px rgba(0, 0, 0, 0.4);
   -moz-box-shadow: 0px 0px 5px -1px rgba(0, 0, 0, 0.4);
   box-shadow: 0px 0px 5px -1px rgba(0, 0, 0, 0.4);
@@ -780,7 +775,7 @@ img.gift-reg:hover {
   margin-top: 35px;
   width: 150px;
   height: 50px;
-  background-color: #dbddd0;
+  background-color: #bcc6ae;
   -webkit-box-shadow: 0px 0px 5px -1px rgba(0, 0, 0, 0.4);
   -moz-box-shadow: 0px 0px 5px -1px rgba(0, 0, 0, 0.4);
   box-shadow: 0px 0px 5px -1px rgba(0, 0, 0, 0.4);
