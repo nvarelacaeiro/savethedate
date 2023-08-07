@@ -544,7 +544,7 @@ height: 50px;
 /* Events section*/
 
 .block-event {
-  border: 20px solid #dbddd0;
+  border: 20px #dbddd0;
   padding: 50px 0;
   box-shadow: 0 0 20px rgba(53, 48, 49, 0.15);
   -webkit-box-shadow: 0 0 20px rgba(53, 48, 49, 0.15);
@@ -552,7 +552,7 @@ height: 50px;
   -ms-box-shadow: 0 0 20px rgba(53, 48, 49, 0.15);
   -o-box-shadow: 0 0 20px rgba(53, 48, 49, 0.15);
   height: 550px;
-  /* position: relative; */
+  position: relative;
   
 }
 .block-event .circle-dashed {
